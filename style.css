@@ -223,3 +223,9 @@ ul {
   background: #ea3548;
   color: #eaab5f;
 }
+footer {
+  width: 100%;
+  font-weight: lighter;
+  height: 30px;
+  text-align: center;
+}
