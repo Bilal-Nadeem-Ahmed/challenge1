@@ -5,14 +5,14 @@
 }
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: blue;
+
   color: black;
   font-size: 17px;
   line-height: 1.5;
 }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 ul {
@@ -32,7 +32,7 @@ ul {
   height: 60px;
   padding: 20px 0;
   font-size: 13px;
-  color: white;
+  color: black;
 }
 .main-nav .logo {
   width: 110px;
@@ -66,4 +66,157 @@ ul {
   border-radius: 15px;
   padding: 10px;
   text-align: center;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background: white;
+  border-radius: 15px;
+  margin: 10px 0;
+}
+.about {
+  margin: 10px 0;
+  background: white;
+  border-radius: 15px;
+  padding: 10px;
+  text-align: center;
+}
+.alleyesonme {
+  color: white;
+  background: black;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.aebtn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid white;
+  background: black;
+  color: white;
+}
+.aebtn:hover {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid white;
+  background: white;
+  color: black;
+}
+.atliens {
+  color: #6bdc0f;
+  background: #02425d;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.atlbtn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #6bdc0f;
+  background: #02425d;
+  color: #6bdc0f;
+}
+.atlbtn:hover {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #6bdc0f;
+  background: #6bdc0f;
+  color: #02425d;
+}
+.confessions {
+  color: #ab784b;
+  background: black;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.cnfbtn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ab784b;
+  background: black;
+  color: #ab784b;
+}
+.cnfbtn:hover {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ab784b;
+  background: #ab784b;
+  color: black;
+}
+.getrich {
+  color: #dccfbd;
+  background: #a42315;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.grbtn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #dccfbd;
+  background: #a42315;
+  color: #dccfbd;
+}
+.grbtn:hover {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #dccfbd;
+  background: #dccfbd;
+  color: #a42315;
+}
+.stelsewere {
+  color: #5a155e;
+  background: #e8ded4;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.stbtn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #5a155e;
+  background: #e8ded4;
+  color: #5a155e;
+}
+.stbtn:hover {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #5a155e;
+  background: #5a155e;
+  color: #e8ded4;
+}
+.whatkindofmusic {
+  color: #ea3548;
+  background: #eaab5f;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.wkbtn {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ea3548;
+  background: #eaab5f;
+  color: #ea3548;
+}
+.wkbtn:hover {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ea3548;
+  background: #ea3548;
+  color: #eaab5f;
 }
